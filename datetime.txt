@@ -1,0 +1,20 @@
+Date and Time Functions
+
+1. var=Date(Format) - To display current date in given Format
+
+
+2. Date(Format,timespan) - To Convert given time in seconds converted into date format
+
+timespan - total seconds from 01/01/1970 date
+
+
+3. $seconds=strtotime("String Date/Format'); --It converts string date into a Total Seconds
+
+
+What Format we can send in strtotime function
+
+Today
+yesterday
+
+5 + today
+today- 5
